@@ -4,7 +4,7 @@ A complete Next.js 15 SPA that replicates the [Invincible Worldwide website](htt
 
 ## ✨ Features
 
-### 🎨 **Exact Visual Replication**
+### 🎨 **Basic Visual Replication**
 - **Hero Section**: Full-screen hero with background image and gradient overlays
 - **Features Section**: Highlighting key benefits with animated icons
 - **About Section**: Mission statement with background image and play button
